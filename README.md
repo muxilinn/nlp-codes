@@ -4,7 +4,7 @@ This is a repository of slides, assignments, code examples for the 2025 edition 
 
 ```bash
 git pull 
-```` ``` ````
+```
 
 # Content
 | Slide | In-Class Practices |
