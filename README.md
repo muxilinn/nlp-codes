@@ -16,9 +16,11 @@ git pull
 # Content
 | Slide | In-Class Practices | 
 | --- | :---: |
-| [01-Intro.pdf](https://github.com/hqyang/nlp-codes/01-Intro.pdf) |  |
-| [02-Framework.pdf](https://github.com/hqyang/nlp-codes/02-Framework.pdf), [python_review.pdf](https://github.com/hqyang/nlp-codes/python_review.pdf) | [L2-1](https://docs.qq.com/form/page/DR3B5dVVvc1NWbmJN) |
-| [03-DataAnotation.pdf](https://github.com/hqyang/nlp-codes/03-DataAnotation.pdf) | [L3](https://docs.qq.com/form/page/DR05BTk5kQ1hsSHFC) |
+| [01-Intro.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/01-Intro.pdf) |  |
+| [02-Framework.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/02-Framework.pdf), [python_review.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/python_review.pdf) | [L2-1](https://docs.qq.com/form/page/DR3B5dVVvc1NWbmJN) |
+| [03-DataAnotation.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/03-DataAnotation.pdf) | [L3](https://docs.qq.com/form/page/DR05BTk5kQ1hsSHFC) |
+| [04-Tokenization.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/04-Tokenization.pdf) | [L4-1](https://f.kdocs.cn/g/2GfRfWc7/), [L4-2](https://f.kdocs.cn/g/Xvz7gSwM/) |
+
 
 # Code Examples
 This is a repository of code examples for the 2025 edition of NLP at SZTU, parts are borrowed from Graham Neubig, Jixing, and Diyi, etc.
@@ -26,7 +28,11 @@ This is a repository of code examples for the 2025 edition of NLP at SZTU, parts
 # Assignment and Projects 
 ## Projects
 - [组队报名](https://docs.qq.com/form/page/DR1VuTnVEa2JQbWRO)
+  - 截止时间: **2025年10月19日(北京时间)23:59**
 
+## Assignments
+- [Assignment 1](https://github.com/hqyang/nlp-assignments/blob/main/Assign1/README.md)
+  - 截止时间: **2025年10月19日(北京时间)23:59**
 
 By Haiqin Yang
 
