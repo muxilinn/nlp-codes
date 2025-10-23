@@ -20,6 +20,9 @@ git pull
 | [02-Framework.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/02-Framework.pdf), [python_review.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/python_review.pdf) | [L2-1](https://docs.qq.com/form/page/DR3B5dVVvc1NWbmJN) |
 | [03-DataAnotation.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/03-DataAnotation.pdf) | [L3](https://docs.qq.com/form/page/DR05BTk5kQ1hsSHFC) |
 | [04-Tokenization.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/04-Tokenization.pdf) | [L4-1](https://f.kdocs.cn/g/2GfRfWc7/), [L4-2](https://f.kdocs.cn/g/Xvz7gSwM/) |
+| [05-Classification.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/05-Classification.pdf) | In the slide |
+| [06-Classification.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/06-Classification.pdf) | In the slide |
+
 
 
 # Code Examples
