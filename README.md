@@ -21,7 +21,9 @@ git pull
 | [03-DataAnotation.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/03-DataAnotation.pdf) | [L3](https://docs.qq.com/form/page/DR05BTk5kQ1hsSHFC) |
 | [04-Tokenization.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/04-Tokenization.pdf) | [L4-1](https://f.kdocs.cn/g/2GfRfWc7/), [L4-2](https://f.kdocs.cn/g/Xvz7gSwM/) |
 | [05-Classification.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/05-Classification.pdf) | In the slide |
-| [06-Classification.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/06-Classification.pdf) | In the slide |
+| [06-Classification.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/06-Classification7.pdf) | In the slide |
+| [07-Code.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/07-Code.pdf) | In the slide |
+| [08-SVM.pdf](https://github.com/hqyang/nlp-codes/blob/main/slides/08-SVM.pdf) | In the slide |
 
 
 
